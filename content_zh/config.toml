@@ -1,7 +1,7 @@
 [site]
 title = "谢珩"
 description = "谢珩的个人主页。"
-last_updated = "2026年4月21日"
+last_updated = "2026年4月22日"
 
 [author]
 name = "谢珩"
@@ -28,10 +28,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "承担项目"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "project"
+href = "/project"
 
 [[navigation]]
 title = "奖项"
@@ -40,10 +40,10 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "服务"
+title = "证书"
 type = "page"
-target = "services"
-href = "/services"
+target = "certificate"
+href = "/certificate"
 
 [[navigation]]
 title = "简历"
