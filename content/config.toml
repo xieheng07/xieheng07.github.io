@@ -61,19 +61,19 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "承担项目"
+title = "Project"
 type = "page"
 target = "project"
 href = "/project"
 
 [[navigation]]
-title = "奖项"
+title = "Awards"
 type = "page"
 target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "证书"
+title = "Certificate"
 type = "page"
 target = "certificate"
 href = "/certificate"
