@@ -2,7 +2,7 @@
 title = "Heng Xie"
 description = "PhD student at the Sun Yat-Sen University."
 favicon = "/favicon.svg"
-last_updated = "April 21, 2026"
+last_updated = "April 22, 2026"
 
 [author]
 name = "Heng Xie"
@@ -17,7 +17,7 @@ email = "xieh69@mail2.sysu.edu.cn"
 location = "Guangzhou, China"
 location_url = "https://ditu.amap.com/"
 location_details = [
-  "Room 123, Science Building,",
+  "389 Building,",
   "Sun Yat-Sen University, GuangZhou, China"
 ]
 google_scholar = "https://orcid.org/0000-0002-1857-5502"
@@ -61,22 +61,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Teaching"
+title = "承担项目"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "project"
+href = "/project"
 
 [[navigation]]
-title = "Awards"
+title = "奖项"
 type = "page"
 target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "Services"
+title = "证书"
 type = "page"
-target = "services"
-href = "/services"
+target = "certificate"
+href = "/certificate"
 
 [[navigation]]
 title = "CV"
