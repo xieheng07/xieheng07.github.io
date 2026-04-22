@@ -5,7 +5,7 @@ title = "关于我"
 research_interests = [
   "GNSS数据处理",
   "深度学习",
-  "GNSS精密定位"
+  "GNSS定位"
 ]
 
 [[sections]]
