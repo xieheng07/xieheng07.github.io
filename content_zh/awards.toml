@@ -21,13 +21,6 @@ subtitle = "广东省教育厅"
 date = "2020"
 content = ""
 
-
-[[items]]
-title = "学业奖学金"
-subtitle = ""
-date = "2025"
-content = "本科(2018,2019,2020,2021), 硕士(2022,2023), 博士(2024,2025)"
-
 [[items]]
 title = "高水平学术论文奖一等奖"
 subtitle = ""
@@ -45,7 +38,6 @@ title = "优秀学生干部"
 subtitle = ""
 date = "2019"
 content = ""
-
 
 [[items]]
 title = "优秀共青团员"
