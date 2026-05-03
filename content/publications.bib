@@ -73,19 +73,20 @@
 }
 
 
-@article{liu2025algorithmic,
-  title = {Algorithmic Complexity of Tensor Network Contractions in Many-Body Localization},
-  author = {Jiale Liu and Ada Lovelace*},
-  year = {2025},
-  month = sep,
-  journal = {Physical Review E},
-  issn = {2470-0045},
-  publisher = {APS},
-  abstract = {Simulating the dynamics of many-body localized (MBL) systems poses a significant challenge due to the logarithmic growth of entanglement entropy. This paper analyzes the algorithmic complexity of contracting Tensor Networks, specifically Matrix Product States (MPS) and Projected Entangled Pair States (PEPS), when applied to MBL Hamiltonians. We prove that while the exact contraction is #P-complete, approximate contraction schemes based on singular value decomposition (SVD) truncation exhibit polynomial time complexity with bounded error for short-time evolution. However, we identify a "complexity phase transition" at the ergodic-MBL transition point, where the bond dimension required for a fixed accuracy diverges exponentially. We propose a novel adaptive bond-dimension algorithm that optimizes computational resources by exploiting the area law of entanglement in the localized phase, demonstrating superior performance on Heisenberg spin chains.},
-  description={Complexity analysis of tensor network contractions in MBL systems, identifying a complexity phase transition and proposing an adaptive algorithm.},
-  keywords={Tensor Networks, Many-Body Localization, Complexity Theory, Quantum Information},
-  doi = {10.1103/PhysRevE.112.092101},
-  selected = {true},
-  code = {https://github.com/xyjoey/Tensor_Network_Complexity_MBL},
-}
 
+@article{xie2023mf,
+  title={MF-ANN: A novel artificial neural network-based method for ocean wind speed retrieval on spaceborne GNSS-R signal},
+  author={Xie, Heng and Cheng, Xing and He, Shanbao and Li, Yujie and Pang, Jingjing and Li, Shuaishuai},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--17},
+  year= {2023},
+  month = nov,
+  publisher={IEEE},
+  abstract = {An artificial neural network (ANN) model-based method is proposed to retrieve the ocean surface wind speed from cyclone global navigation satellite system (CYGNSS) L1 observation data. The proposed method is embedded with an input features and output results filtering module based on a machine-learning (ML) algorithm, abbreviated as the MF-ANN method. By studying the relationship between physical observation variables from CYGNSS L1 data and the wind speed of the European Centre for Medium-Range Weather Forecast (ECMWF) reanalysis dataset and cross-calibrated multiplatform (CCMP) dataset, a feature parameter selection module based on the XGBoost algorithm and Pearson correlation coefficient is designed to automatically select the optimal combination of feature parameters related to the ocean surface wind speed and input the feature parameters into the ANN model. An outlier filtering module based on the unsupervised ML algorithm is designed to identify and eliminate the outliers in the wind speed data retrieved by the ANN model, reducing the errors that cannot be eliminated by the fixed threshold of the quality flag provided in the CYGNSS L1 product. The experiments show that the RMSEs of the MF-ANN model can be reduced by 11.73% and 15.31% compared with those of a single ANN model by adding feature selection modules and quality filtering modules, respectively. The RMSE of the MF-ANN model combining these two modules can be reduced by 29.08%.},
+  preview={example.png},
+  description={Application of an Improved Artificial Neural Network in Sea Surface Wind Speed Retrieval for CYGNSS Mission.},
+  keywords={CYGNSS, GNSS-R, Machine Learning, NDBC, Wind speed retrieval},
+  doi = {10.1109/TGRS.2023.3323679},
+  selected = {true},
+}

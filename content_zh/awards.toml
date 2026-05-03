@@ -2,26 +2,34 @@ type = "card"
 title = "奖项"
 description = "我获得的荣誉与奖项。"
 
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2025"
-content = "奖项说明。"
+
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
+title = "学业奖学金"
+date = "2026"
+content = "本科期间2017,2018,2019,2020年度获得,
+            硕士期间2021-2022,2022-2023年度获得,
+            博士期间2024-2025年度获得"
+
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
+title = "优秀毕业生"
+date = "2021"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "广东省大学生数学竞赛三等奖"
+subtitle = "中国数学会"
+date = "2020.12"
+
+[[items]]
+title = "广东省大学生计算机设计大赛三等奖"
+subtitle = "广东省教育厅"
+date = "2020.09"
+
+[[items]]
+title = "中国高校计算机大赛C4网络技术挑战赛三等奖"
+subtitle = "全国高等学校计算机教育研究会"
+date = "2020.08"
+
+
+
