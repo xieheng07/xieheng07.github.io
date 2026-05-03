@@ -1,5 +1,5 @@
 type = "card"
-title = "专利&软著"
+title = "专利"
 description = "发明专利和软件著作权。"
 
 [[items]]

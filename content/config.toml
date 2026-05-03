@@ -73,10 +73,10 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "Certificate"
+title = "Patent"
 type = "page"
-target = "certificate"
-href = "/certificate"
+target = "patent"
+href = "/patent"
 
 [[navigation]]
 title = "CV"
