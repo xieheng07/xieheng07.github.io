@@ -4,14 +4,8 @@ description = "我获得的荣誉与奖项。"
 
 
 [[items]]
-title = "广东省大学生数学竞赛三等奖"
+title = "第十二届大学生数学竞赛（非数学类）三等奖"
 subtitle = "中国数学会"
-date = "2020"
-content = ""
-
-[[items]]
-title = "广东省大学生计算机设计大赛三等奖"
-subtitle = "广东省教育厅"
 date = "2020"
 content = ""
 
@@ -21,6 +15,24 @@ subtitle = "全国高等学校计算机教育研究会"
 date = "2020"
 content = ""
 
+[[items]]
+title = "广东省大学生计算机设计大赛三等奖"
+subtitle = "广东省教育厅"
+date = "2020"
+content = ""
+
+
+[[items]]
+title = "高水平学术论文奖一等奖"
+subtitle = ""
+date = "2024"
+content = "研究生专项奖学金"
+
+[[items]]
+title = "学业奖学金"
+subtitle = ""
+date = "2025"
+content = "本科(2018,2019,2020,2021), 硕士(2022,2023), 博士(2024-2025)"
 
 [[items]]
 title = "优秀毕业生"
@@ -29,7 +41,15 @@ date = "2021"
 content = ""
 
 [[items]]
-title = "学业奖学金"
+title = "优秀学生干部"
 subtitle = ""
-date = "2017"
-content = "本科(2018,2019,2020,2021), 硕士(2022,2023), 博士(2024-2025)"
+date = "2019"
+content = ""
+
+
+[[items]]
+title = "优秀共青团员"
+subtitle = ""
+date = "2019"
+content = ""
+

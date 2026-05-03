@@ -1,6 +1,6 @@
 type = "card"
-title = "教学"
-description = "我曾参与授课或助教的课程。"
+title = "参与项目"
+description = "我曾参与的项目。"
 
 [[items]]
 title = "示例课程"
