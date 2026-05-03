@@ -19,7 +19,7 @@ id = "featured_publications"
 type = "publications"
 title = "精选论文"
 filter = "selected"
-limit = 5
+limit = 3
 
 [[sections]]
 id = "news"

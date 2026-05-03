@@ -42,8 +42,8 @@ href = "/awards"
 [[navigation]]
 title = "专利软著"
 type = "page"
-target = "certificate"
-href = "/certificate"
+target = "patent"
+href = "/patent"
 
 [[navigation]]
 title = "简历"

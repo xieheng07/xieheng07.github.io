@@ -1,9 +1,0 @@
-type = "card"
-title = "专利&软著"
-description = "发明专利和软件著作权。"
-
-[[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
