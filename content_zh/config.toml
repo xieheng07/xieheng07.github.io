@@ -40,7 +40,7 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "证书"
+title = "专利软著"
 type = "page"
 target = "certificate"
 href = "/certificate"

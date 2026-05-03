@@ -1,6 +1,6 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "专利&软著"
+description = "发明专利和软件著作权。"
 
 [[items]]
 title = "审稿人"
