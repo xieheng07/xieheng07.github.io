@@ -9,7 +9,6 @@
   publisher={IEEE},
   abstract = {An artificial neural network (ANN) model-based method is proposed to retrieve the ocean surface wind speed from cyclone global navigation satellite system (CYGNSS) L1 observation data. The proposed method is embedded with an input features and output results filtering module based on a machine-learning (ML) algorithm, abbreviated as the MF-ANN method. By studying the relationship between physical observation variables from CYGNSS L1 data and the wind speed of the European Centre for Medium-Range Weather Forecast (ECMWF) reanalysis dataset and cross-calibrated multiplatform (CCMP) dataset, a feature parameter selection module based on the XGBoost algorithm and Pearson correlation coefficient is designed to automatically select the optimal combination of feature parameters related to the ocean surface wind speed and input the feature parameters into the ANN model. An outlier filtering module based on the unsupervised ML algorithm is designed to identify and eliminate the outliers in the wind speed data retrieved by the ANN model, reducing the errors that cannot be eliminated by the fixed threshold of the quality flag provided in the CYGNSS L1 product. The experiments show that the RMSEs of the MF-ANN model can be reduced by 11.73% and 15.31% compared with those of a single ANN model by adding feature selection modules and quality filtering modules, respectively. The RMSE of the MF-ANN model combining these two modules can be reduced by 29.08%.},
   preview={mfann.png},
-  description={Application of an Improved Artificial Neural Network in Sea Surface Wind Speed Retrieval for CYGNSS Mission.},
   keywords={CYGNSS, GNSS-R, Machine Learning, NDBC, Wind speed retrieval},
   doi = {10.1109/TGRS.2023.3323679},
   selected = {true},
@@ -50,7 +49,6 @@
 }
 
 
-
 @article{li2025global,
   title={Global navigation satellite system reflectometry specular point positioning method based on reflection geometric model: suitable for land and ocean applications},
   author={Li, Shuaishuai and He, Shanbao and Cheng, Xing and Wang, Feng and Xie, Heng and Pang, Jingjing and Cai, Min},
@@ -87,7 +85,7 @@
   journal={Aerospace Science and Technology},
   pages={112222},
   year={2026},
-  month = may,
+  month = oct,
   publisher={Elsevier},
   abstract = {The accurate positioning of the specular point of the spaceborne global navigation satellite system reflectometry (GNSS-R) receiver is a key step in using GNSS-R technology for geophysical parameter retrieval. As GNSS-R applications expand across diverse environments ranging from land and oceans to glaciers, traditional geometric positioning accuracy is no longer sufficient to meet the demands of these varied applications. Specifically, positioning algorithms must not only facilitate real-time spaceborne processing but also adapt to fluctuating surface conditions, all while sustaining high levels of accuracy and efficiency. In response to these demands, we propose a positioning algorithm tailored for spaceborne GNSS-R specular points across various surface environments. The proposed algorithm integrates actual surface height data by leveraging surface models for localized terrain fitting. It employs a regional grid traversal method, guided by geographic positioning criteria, to accurately search for specular points that satisfy specific conditions. Considering the impact of initial position accuracy on traversal speed, we developed an ellipsoidal reflection geometric model based on the unique properties of the ellipsoid. This model facilitates the swift, non-iterative determination of a high-precision initial position for specular points. Experimental data indicate that our proposed approach reduces the Euclidean distance error of the initial position by ∼ 87.5 % and enhances grid traversal efficiency by a factor of more than eight times. To verify the robustness of the proposed method, this paper conducted multiple experiments in both ocean and land scenarios, including case studies in the Qinghai-Tibet Plateau region. The findings highlight that the normal vector angle analysis criterion offers superior reliability in complex terrains, positioning it as the optimal criterion for the positioning of specular points.},
   keywords={Trajectory prediction, Hypersonic glide vehicle, Auxiliary features, Convolutional interactive learning network, Data missing},
@@ -100,7 +98,7 @@
   author={Lin, Zijun and Wang, Shuai and Zhuang, Xuebin and Wu, Cailun and Xie, Heng and Hong, Qihan},
   journal={IEEE Transactions on Vehicular Technology},
   year={2026},
-  month = jan,
+  month = mar,
   publisher={IEEE},
   abstract = {Driven by the high data transmission requirement of low earth orbit enhanced global navigation satellite system (LeGNSS), multiplexed code shift keying (MCSK) has emerged as a novel modulation. The numerous satellites and the high dynamic variation in the LeGNSS constellation pose great challenges to the efficient acquisition of MCSK signals. We propose a high efficient three-dimensional acquisition algorithm for LeGNSS MCSK signals (TDA-M), searching for Doppler, primary code phase, and secondary code phase. Our scheme employs phase rotation code to enhance acquisition efficiency and utilizes the dynamic dual-layer partial matched filter with fast fourier transform to maintain high performance in the large dynamic regions. Numerical simulation results show that TDA-M is 17 times faster than existing scheme under the same code multiplexing level and Doppler search range. In high dynamic scenarios, the dynamic search factor improves secondary code phase estimation accuracy by up to 50% compared with the case without it, and the probability of Doppler estimation error falls within FFT spectral resolution exceeds 97%.},
   keywords={low earth orbit enhanced global navigation, satellite system(LeGNSS), multiplexed code shift keying(MCSK), efficient signal acquisition, high dynamic},
