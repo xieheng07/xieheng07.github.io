@@ -1,7 +1,7 @@
 [site]
 title = "谢珩"
 description = "谢珩的个人主页"
-last_updated = "2026年5月4日"
+last_updated = "2026年10月14日"
 
 [author]
 name = "谢珩"
@@ -11,7 +11,7 @@ institution = "中山大学"
 [social]
 location = "广州, 中国"
 location_details = [
-  "389栋, 南校园",
+  "南校园",
   "广州市新港西路135号, 广州, 中国"
 ]
 
