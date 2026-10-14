@@ -1,8 +1,8 @@
 [site]
-title = "Heng Xie/Personal Homepage"
+title = "Heng Xie"
 description = "PhD student at the Sun Yat-Sen University."
 favicon = "/favicon.svg"
-last_updated = "2026.10.10"
+last_updated = "Oct 10th, 2026"
 
 [author]
 name = "Heng Xie"
@@ -48,9 +48,8 @@ switcher = true
 zh = "中文"
 en = "English"
 
-
 [[navigation]]
-title = "CV"
+title = "About"
 type = "page"
 target = "about"
 href = "/"
