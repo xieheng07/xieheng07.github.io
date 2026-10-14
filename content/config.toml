@@ -1,5 +1,5 @@
 [site]
-title = "Heng Xie"
+title = "Heng Xie/Personal Homepage"
 description = "PhD student at the Sun Yat-Sen University."
 favicon = "/favicon.svg"
 last_updated = "May 4th, 2026"
@@ -72,11 +72,6 @@ type = "page"
 target = "awards"
 href = "/awards"
 
-[[navigation]]
-title = "Patent"
-type = "page"
-target = "patent"
-href = "/patent"
 
 [[navigation]]
 title = "CV"
