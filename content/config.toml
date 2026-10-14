@@ -30,7 +30,7 @@ google_scholar = "https://scholar.google.com/citations?user=smgNM0cAAAAJ&hl=zh-C
 enable_likes = false
 
 # Display all subpages on a single page
-enable_one_page_mode = true
+enable_one_page_mode = false
 
 [i18n]
 enabled = true
