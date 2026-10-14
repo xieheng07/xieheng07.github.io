@@ -6,11 +6,5 @@ title = "About"
 [[sections]]
 id = "about"
 type = "markdown"
-source = "bio.md"
-title = "About"
-
-[[sections]]
-id = "publications"
-type = "markdown"
 source = "cv.md"
 

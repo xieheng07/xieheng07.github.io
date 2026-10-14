@@ -1,11 +1,7 @@
 [profile]
 
-[[sections]]
-id = "about"
-type = "markdown"
-source = "bio.md"
 
 [[sections]]
-id = "publications"
+id = "about"
 type = "markdown"
 source = "cv.md"
