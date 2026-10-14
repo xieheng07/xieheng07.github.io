@@ -1,4 +1,3 @@
 type = "publication"
 title = "论文"
-description = "发表论文成果列表。"
 source = "publications.bib"

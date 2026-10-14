@@ -1,11 +1,8 @@
 type = "about"
 title = "关于我"
 
+
 [profile]
-research_interests = [
-  "GNSS数据处理",
-  "深度学习"
-]
 
 [[sections]]
 id = "about"
@@ -18,10 +15,5 @@ id = "featured_publications"
 type = "publications"
 title = "精选论文"
 filter = "selected"
-limit = 3
+limit = 5
 
-[[sections]]
-id = "news"
-type = "list"
-title = "动态"
-source = "news.toml"
