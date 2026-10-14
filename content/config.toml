@@ -57,5 +57,4 @@ href = "/"
 [[navigation]]
 title = "CV"
 type = "page"
-target = "about"
-href = "/"
+target = "/cv"
