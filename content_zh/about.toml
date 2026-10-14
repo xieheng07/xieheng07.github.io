@@ -1,5 +1,4 @@
 type = "about"
-title = "关于我"
 
 
 [profile]
@@ -8,8 +7,6 @@ title = "关于我"
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "关于我"
-
 
 [[sections]]
 id = "publications"
