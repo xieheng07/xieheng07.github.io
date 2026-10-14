@@ -30,7 +30,7 @@ google_scholar = "https://scholar.google.com/citations?user=smgNM0cAAAAJ&hl=zh-C
 enable_likes = false
 
 # Display all subpages on a single page
-enable_one_page_mode = false
+enable_one_page_mode = true
 
 [i18n]
 enabled = true
@@ -54,8 +54,3 @@ type = "page"
 target = "about"
 href = "/"
 
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
