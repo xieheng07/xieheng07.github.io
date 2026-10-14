@@ -21,13 +21,14 @@ location_details = [
   "Sun Yat-Sen University, GuangZhou, China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=smgNM0cAAAAJ&hl=zh-CN"
+wechat = "xieheng_07"
 # orcid = "https://orcid.org/0000-0002-1857-5502"
 # github = "https://github.com/xieheng07/"
 
 
 [features]
 # Show a like button on the about page
-enable_likes = false
+enable_likes = True
 
 # Display all subpages on a single page
 enable_one_page_mode = false
