@@ -28,7 +28,7 @@ wechat = "xieheng_07"
 
 [features]
 # Show a like button on the about page
-enable_likes = True
+enable_likes = true
 
 # Display all subpages on a single page
 enable_one_page_mode = false
