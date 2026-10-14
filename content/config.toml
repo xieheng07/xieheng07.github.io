@@ -49,6 +49,12 @@ zh = "中文"
 en = "English"
 
 [[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
 title = "CV"
 type = "page"
 target = "about"
